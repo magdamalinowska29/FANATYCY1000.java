@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe4a2a31-8c11-4dfe-95ce-dd5aa8f22d6c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pIOGceBkxhO4YLlQFPeQbBejsK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ppa20_covid" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4045977" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="pl.kognitywistyka.ppa2021" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.WyboryTest.testCZYWYGRALDatabaseStatement">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="pl.kognitywistyka.ppa2021.Main" />
+      <module name="covid" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WyboryTest.testCZYWYGRALDatabaseStatement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="covid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.kognitywistyka.ppa2021.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.kognitywistyka.ppa2021.data" />
+      <option name="MAIN_CLASS_NAME" value="pl.kognitywistyka.ppa2021.data.WyboryTest" />
+      <option name="METHOD_NAME" value="testCZYWYGRALDatabaseStatement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WyboryTest.testKandydaci2Query" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="covid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.kognitywistyka.ppa2021.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.kognitywistyka.ppa2021.data" />
+      <option name="MAIN_CLASS_NAME" value="pl.kognitywistyka.ppa2021.data.WyboryTest" />
+      <option name="METHOD_NAME" value="testKandydaci2Query" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WyboryTest.testWYNIK1DatabaseStatement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="covid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.kognitywistyka.ppa2021.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.kognitywistyka.ppa2021.data" />
+      <option name="MAIN_CLASS_NAME" value="pl.kognitywistyka.ppa2021.data.WyboryTest" />
+      <option name="METHOD_NAME" value="testWYNIK1DatabaseStatement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WyboryTest.testWYNIKIDatabaseStatement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="covid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.kognitywistyka.ppa2021.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.kognitywistyka.ppa2021.data" />
+      <option name="MAIN_CLASS_NAME" value="pl.kognitywistyka.ppa2021.data.WyboryTest" />
+      <option name="METHOD_NAME" value="testWYNIKIDatabaseStatement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WyboryTest.testselectTable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="covid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.kognitywistyka.ppa2021.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.kognitywistyka.ppa2021.data" />
+      <option name="MAIN_CLASS_NAME" value="pl.kognitywistyka.ppa2021.data.WyboryTest" />
+      <option name="METHOD_NAME" value="testselectTable" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.WyboryTest.testWYNIK1DatabaseStatement" />
+      <item itemvalue="JUnit.WyboryTest.testselectTable" />
+      <item itemvalue="JUnit.WyboryTest.testKandydaci2Query" />
+      <item itemvalue="JUnit.WyboryTest.testWYNIKIDatabaseStatement" />
+      <item itemvalue="JUnit.WyboryTest.testCZYWYGRALDatabaseStatement" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WyboryTest.testCZYWYGRALDatabaseStatement" />
+        <item itemvalue="JUnit.WyboryTest.testWYNIKIDatabaseStatement" />
+        <item itemvalue="JUnit.WyboryTest.testKandydaci2Query" />
+        <item itemvalue="JUnit.WyboryTest.testselectTable" />
+        <item itemvalue="JUnit.WyboryTest.testWYNIK1DatabaseStatement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe4a2a31-8c11-4dfe-95ce-dd5aa8f22d6c" name="Default Changelist" comment="" />
+      <created>1614867043673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614867043673</updated>
+      <workItem from="1614867044755" duration="3905000" />
+      <workItem from="1618657605260" duration="596000" />
+      <workItem from="1622750387021" duration="2695000" />
+      <workItem from="1622753129727" duration="249000" />
+      <workItem from="1622890315016" duration="14455000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="288" y="63" width="1089" height="761" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622890413851">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="288" y="63" width="1089" height="761" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1622890413851" />
+    <state x="573" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1622753248954">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="573" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1622753248954" />
+    <state x="373" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1614869224172">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="373" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1614869224172" />
+    <state x="551" y="281" width="433" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1622751363226">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="551" y="281" width="433" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1622751363226" />
+    <state x="501" y="154" key="FileChooserDialogImpl" timestamp="1622918727818">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="501" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1622918727818" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1622918387186">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622918387186" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1622918387186">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1622918387186" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1622918387186">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1622918387186" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1622918387186">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1622918387186" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1622919944209">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1622919944209" />
+    <state x="209" y="66" key="new project wizard" timestamp="1622919066670">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="66" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1622919066670" />
+  </component>
+</project>
