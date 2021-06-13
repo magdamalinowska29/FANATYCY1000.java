@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.Pane?>
+
+<BorderPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.kognitywistyka.ppa2021.WYBORYController">
+   <top>
+      <Pane prefHeight="157.0" prefWidth="800.0" BorderPane.alignment="CENTER">
+         <children>
+            <Button fx:id="przeprowadzture1" disable="true" layoutX="570.0" layoutY="36.0" mnemonicParsing="false" onAction="#tura1" prefHeight="31.0" prefWidth="154.0" text="Przeprowadź I turę" />
+            <Button fx:id="chooseButton" layoutX="21.0" layoutY="36.0" mnemonicParsing="false" onAction="#loadData" prefHeight="31.0" prefWidth="177.0" text="Załaduj wstępne dane" />
+            <Button fx:id="showData" disable="true" layoutX="313.0" layoutY="36.0" mnemonicParsing="false" onAction="#showDataTable" prefHeight="26.0" prefWidth="147.0" text="Pokaż dane z bazy" />
+            <Button fx:id="przeprowadzture2" disable="true" layoutX="109.0" layoutY="86.0" mnemonicParsing="false" onAction="#tura2" text="Zatwierdź i przeprowadź II turę" />
+            <Button fx:id="zatwierdz" disable="true" layoutX="450.0" layoutY="86.0" mnemonicParsing="false" onAction="#zatwierdz" prefHeight="31.0" prefWidth="239.0" text="Zatwierdź wyniki" />
+         </children>
+      </Pane>
+   </top>
+   <center>
+      <TabPane fx:id="tabPane" prefHeight="200.0" prefWidth="200.0" tabClosingPolicy="UNAVAILABLE" BorderPane.alignment="CENTER" />
+   </center>
+</BorderPane>

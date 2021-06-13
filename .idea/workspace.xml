@@ -3,8 +3,48 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github2" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe4a2a31-8c11-4dfe-95ce-dd5aa8f22d6c" name="Default Changelist" comment="" />
+    <list default="true" id="fe4a2a31-8c11-4dfe-95ce-dd5aa8f22d6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/kognitywistyka/ppa2021/WYBORYController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/pl/kognitywistyka/ppa2021/WYBORY.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/covid.iml" beforeDir="false" afterPath="$PROJECT_DIR$/wybory.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/kognitywistyka/ppa2021/COVIDController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/kognitywistyka/ppa2021/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/kognitywistyka/ppa2021/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/kognitywistyka/ppa2021/data/COVIDDataReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/kognitywistyka/ppa2021/data/CountryData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/kognitywistyka/ppa2021/data/DailyData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/kognitywistyka/ppa2021/data/GlobalData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/kognitywistyka/ppa2021/data/XLSXDataReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/kognitywistyka/ppa2021/transfer/CountryDailyData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/pl/kognitywistyka/ppa2021/COVID.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/kognitywistyka/ppa2021/data/DbTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/kognitywistyka/ppa2021/data/WyboryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/kognitywistyka/ppa2021/data/WyboryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/kognitywistyka/ppa2021/data/XLSXTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/pl/kognitywistyka/ppa2021/data/owid-covid-data.xlsx" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +57,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -25,15 +68,17 @@
     </option>
   </component>
   <component name="ProjectId" id="1pIOGceBkxhO4YLlQFPeQbBejsK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ppa20_covid" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4045977" />
@@ -44,27 +89,32 @@
       <recent name="pl.kognitywistyka.ppa2021" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.WyboryTest.testCZYWYGRALDatabaseStatement">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="pl.kognitywistyka.ppa2021.Main" />
-      <module name="covid" />
+      <module name="wybory" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="WyboryTest.buildData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wybory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.kognitywistyka.ppa2021.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.kognitywistyka.ppa2021.data" />
+      <option name="MAIN_CLASS_NAME" value="pl.kognitywistyka.ppa2021.data.WyboryTest" />
+      <option name="METHOD_NAME" value="buildData" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="WyboryTest.testCZYWYGRALDatabaseStatement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="covid" />
+      <module name="wybory" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="pl.kognitywistyka.ppa2021.data.*" />
@@ -80,7 +130,7 @@
       </method>
     </configuration>
     <configuration name="WyboryTest.testKandydaci2Query" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="covid" />
+      <module name="wybory" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="pl.kognitywistyka.ppa2021.data.*" />
@@ -95,24 +145,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WyboryTest.testWYNIK1DatabaseStatement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="covid" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.kognitywistyka.ppa2021.data.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="pl.kognitywistyka.ppa2021.data" />
-      <option name="MAIN_CLASS_NAME" value="pl.kognitywistyka.ppa2021.data.WyboryTest" />
-      <option name="METHOD_NAME" value="testWYNIK1DatabaseStatement" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WyboryTest.testWYNIKIDatabaseStatement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="covid" />
+      <module name="wybory" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="pl.kognitywistyka.ppa2021.data.*" />
@@ -128,7 +162,7 @@
       </method>
     </configuration>
     <configuration name="WyboryTest.testselectTable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="covid" />
+      <module name="wybory" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="pl.kognitywistyka.ppa2021.data.*" />
@@ -145,19 +179,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.WyboryTest.testWYNIK1DatabaseStatement" />
       <item itemvalue="JUnit.WyboryTest.testselectTable" />
       <item itemvalue="JUnit.WyboryTest.testKandydaci2Query" />
       <item itemvalue="JUnit.WyboryTest.testWYNIKIDatabaseStatement" />
       <item itemvalue="JUnit.WyboryTest.testCZYWYGRALDatabaseStatement" />
+      <item itemvalue="JUnit.WyboryTest.buildData" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.WyboryTest.buildData" />
         <item itemvalue="JUnit.WyboryTest.testCZYWYGRALDatabaseStatement" />
         <item itemvalue="JUnit.WyboryTest.testWYNIKIDatabaseStatement" />
         <item itemvalue="JUnit.WyboryTest.testKandydaci2Query" />
         <item itemvalue="JUnit.WyboryTest.testselectTable" />
-        <item itemvalue="JUnit.WyboryTest.testWYNIK1DatabaseStatement" />
       </list>
     </recent_temporary>
   </component>
@@ -173,57 +207,88 @@
       <workItem from="1618657605260" duration="596000" />
       <workItem from="1622750387021" duration="2695000" />
       <workItem from="1622753129727" duration="249000" />
-      <workItem from="1622890315016" duration="14455000" />
+      <workItem from="1622890315016" duration="16739000" />
+      <workItem from="1623510365474" duration="18400000" />
+      <workItem from="1623578122172" duration="10648000" />
+      <workItem from="1623603530316" duration="724000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="288" y="63" width="1089" height="761" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622890413851">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="288" y="63" width="1089" height="761" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1622890413851" />
+    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1623519803032">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1623519803032" />
     <state x="573" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1622753248954">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="573" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1622753248954" />
-    <state x="373" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1614869224172">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="373" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1614869224172" />
     <state x="551" y="281" width="433" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1622751363226">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="551" y="281" width="433" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1622751363226" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1623588572533">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1623588572533" />
     <state x="501" y="154" key="FileChooserDialogImpl" timestamp="1622918727818">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="501" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1622918727818" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1622918387186">
+    <state x="639" y="310" width="257" height="259" key="Github.ShareDialog" timestamp="1623604048866">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622918387186" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1622918387186">
+    <state x="639" y="310" width="257" height="259" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1623604048866" />
+    <state x="515" y="110" key="Github.UntrackedFilesDialog" timestamp="1622920024609">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1622918387186" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1622918387186">
+    <state x="515" y="110" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1622920024609" />
+    <state width="1493" height="163" key="GridCell.Tab.0.bottom" timestamp="1623602966434">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1622918387186" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1622918387186">
+    <state width="1493" height="163" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1623602966434" />
+    <state width="1493" height="163" key="GridCell.Tab.0.center" timestamp="1623602966434">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1622918387186" />
-    <state x="277" y="0" key="SettingsEditor" timestamp="1622919944209">
+    <state width="1493" height="163" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1623602966434" />
+    <state width="1493" height="163" key="GridCell.Tab.0.left" timestamp="1623602966434">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1622919944209" />
-    <state x="209" y="66" key="new project wizard" timestamp="1622919066670">
+    <state width="1493" height="163" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1623602966434" />
+    <state width="1493" height="163" key="GridCell.Tab.0.right" timestamp="1623602966434">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="209" y="66" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1622919066670" />
+    <state width="1493" height="163" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1623602966434" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1622921665237">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1622921665237" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622920596262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1622920596262" />
+    <state x="209" y="66" key="new project wizard" timestamp="1623603890416">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="66" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1623603890416" />
   </component>
 </project>

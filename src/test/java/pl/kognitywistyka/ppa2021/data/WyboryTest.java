@@ -1,17 +1,14 @@
 package pl.kognitywistyka.ppa2021.data;
 
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
-import java.util.ArrayList;
-import java.util.List;
-
+import javafx.collections.ObservableList;
+import javafx.scene.control.TableView;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+
+import java.sql.*;
+import java.util.ArrayList;
+import java.util.List;
 
 public class WyboryTest {
 
@@ -215,7 +212,20 @@ public class WyboryTest {
         }
     }
 
+
+
+
+
+
+
+    private ObservableList<ObservableList> data;
+    private TableView tableview;
+
+
+
+
     @Test
+
     public void testCZYWYGRALDatabaseStatement() {
         try (Connection c = DriverManager.getConnection("jdbc:hsqldb:mem:mymemdb", "SA", "")) {
             try (Statement s = c.createStatement()) {
@@ -243,6 +253,9 @@ public class WyboryTest {
             Assertions.fail(e);
         }
     }
+
+
+
 
 
 
